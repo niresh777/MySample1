@@ -1,0 +1,162 @@
+.wrapper {
+    width: 880px;
+    height: 722px;
+    padding: 0px 10px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #950705;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 18px;
+    text-align: justify;
+}
+
+strong {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #dd7a02;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+
+.header {
+
+    float: left;
+    width: 880px;
+    padding: 0px 10px;
+    background: #f79210;
+}
+
+.headerleft {
+    float: left;
+}
+
+.headerright {
+    float: right;
+}
+
+.headerright li {
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+}
+
+.headerright li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 12px;
+    border-right: 1.5px solid;
+    padding-right: 10px;
+}
+
+.content {
+    float: left;
+    background: #fffcd3;
+    width: 880px;
+    padding: 0px 10px;
+}
+
+.contenttop {
+    float: left;
+    background: #fffcd3;
+    width: 880px;
+
+}
+
+.contenttopleft {
+    float: left;
+    width: 585px;
+    margin-right: 20px;
+    border-bottom: 1px dashed;
+}
+
+/* .contenttopright{
+    float: right;
+    padding-top: 19px;
+    width: 280px;
+} */
+
+.contentbottom {
+    float: left;
+    width: 880px;
+    padding: 10px 10px;
+}
+
+.contentbottomleft {
+    float: left;
+    width: 291px;
+    padding-right: 20px;
+    border-right: 1px dashed;
+}
+
+.contentbottomcenter {
+    float: left;
+    width: 220px;
+    padding: 0px 20px;
+    padding-bottom: 26px;
+    border-right: 1px dashed;
+}
+
+.contentbottomright {
+    float: left;
+    width: 280px;
+    padding-left: 25px;
+}
+
+.contentbottomleft img {
+    float: left;
+    margin-right: 10px;
+    padding-bottom: 26px;
+}
+
+.contentbottomright img {
+    float: left;
+    margin-right: 10px;
+}
+
+.footer {
+    float: left;
+    width: 880px;
+    padding: 0px 10px;
+    background: #f79210;
+    text-align: center;
+}
+
+.footer ul {
+    padding-left: 275px;
+}
+
+.footer li {
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+
+}
+
+.footer li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 12px;
+    border-right: 1.5px solid;
+    padding-right: 10px;
+}
+
+.footer span {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
